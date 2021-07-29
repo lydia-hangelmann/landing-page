@@ -1,0 +1,13 @@
+.btn-cyan{
+  background-color: darkcyan;
+  color:  white;
+  padding: 15px 20px;
+  border-radius:  10px;
+  font-family: "LibreBaskerville";
+  font-weight:  bold;
+
+}
+.btn-cyan:hover{
+  background-color:rgb(10,10,10);
+  color:  white;
+}
